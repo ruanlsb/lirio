@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    grid-area: M;
+    background-color: #2E62A6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.sobre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.imgsobre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 10px;
+}

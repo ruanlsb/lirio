@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  .App {
+    display: grid;
+    grid-template-rows: 10% 85% 5%;
+    grid-template-areas: "H" "M" "F";
+    height: 100%;
+    width: 100%;
+  }
+  
